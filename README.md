@@ -25,3 +25,10 @@ Contributions are welcome! Just submit a PR.
 ## License
 
 Uses the [MIT](http://opensource.org/licenses/MIT) license.
+
+
+## References
+
+Take a look at:
+- [git stats](https://github.com/evilsocket/gitstats)
+- [git inspector](https://github.com/ejwa/gitinspector)
