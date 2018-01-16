@@ -32,3 +32,4 @@ Uses the [MIT](http://opensource.org/licenses/MIT) license.
 Take a look at:
 - [git stats](https://github.com/evilsocket/gitstats)
 - [git inspector](https://github.com/ejwa/gitinspector)
+- [This paper omg!](http://www.diva-portal.org/smash/get/diva2:851524/FULLTEXT01.pdf)
